@@ -1,0 +1,38 @@
+[
+  {
+    "title":   { "en": "Seismic hazard assessment", "ar": "تقييم المخاطر الزلزالية", "ku": "هەلسەنگاندنا مەترسیا عەردهەژینێ" },
+    "summary": { "en": "Probabilistic and deterministic hazard analysis and ground-motion characterisation for the region.",
+                 "ar": "تحليل المخاطر الزلزالية الاحتمالي والحتمي وتوصيف الحركة الأرضية في المنطقة.",
+                 "ku": "شیکارا مەترسیێ ب رێکا ئەگەری و دیارکری و دیارکرنا تایبەتمەندیێن لڤینا عەردی ل دەڤەرێ." }
+  },
+  {
+    "title":   { "en": "Building vulnerability & risk", "ar": "قابلية تضرر المباني والخطورة الزلزالية", "ku": "لاوازیا ئاڤاهییان و ریسک" },
+    "summary": { "en": "Rapid visual screening and seismic risk assessment of the existing building stock.",
+                 "ar": "الفحص البصري السريع وتقييم الخطورة الزلزالية للمباني القائمة.",
+                 "ku": "پشکنینا بەرچاڤ یا خێرا و هەلسەنگاندنا ریسکا عەردهەژینێ بۆ ئاڤاهییێن هەین." }
+  },
+  {
+    "title":   { "en": "Fragility & performance analysis", "ar": "منحنيات الهشاشة وتحليل الأداء", "ku": "شیکارا شکەستنێ و کارکرنێ" },
+    "summary": { "en": "Analytical fragility curves and performance-based evaluation of structures.",
+                 "ar": "منحنيات الهشاشة التحليلية والتقييم المبني على الأداء للمنشآت.",
+                 "ku": "کەڤانێن شکەستنێ یێن شیکاری و هەلسەنگاندنا ئاڤاهییان ل سەر بنیاتێ کارکرنێ." }
+  },
+  {
+    "title":   { "en": "Geotechnical earthquake engineering", "ar": "الهندسة الجيوتقنية الزلزالية", "ku": "ئەندازیاریا جیوتەکنیکی یا عەردهەژینێ" },
+    "summary": { "en": "Site response, soil–structure interaction and foundation behaviour under seismic loading.",
+                 "ar": "استجابة الموقع والتفاعل بين التربة والمنشأ وسلوك الأسس تحت الأحمال الزلزالية.",
+                 "ku": "بەرسڤا جهی، کارلێکا ئاخێ و ئاڤاهی و رەفتارا بنگەهان ل بن بارێ عەردهەژینێ." }
+  },
+  {
+    "title":   { "en": "Seismic design & codes", "ar": "التصميم الزلزالي والكودات", "ku": "دیزاینا دژی عەردهەژینێ و کۆد" },
+    "summary": { "en": "Applying modern seismic design provisions (ASCE 7, ACI 318) to regional practice.",
+                 "ar": "تطبيق متطلبات التصميم الزلزالي الحديثة (ASCE 7 وACI 318) في الممارسة الهندسية المحلية.",
+                 "ku": "جێبەجێکرنا مەرجێن نوی یێن دیزاینا عەردهەژینێ (ASCE 7، ACI 318) د کارێ ئەندازیاری یێ دەڤەرێ دا." }
+  },
+  {
+    "title":   { "en": "Resilient materials", "ar": "مواد إنشائية عالية الأداء", "ku": "کەرەستێن بەرخۆدەر" },
+    "summary": { "en": "Advanced concretes such as UHPFRC for stronger, more durable structures.",
+                 "ar": "خرسانات متطورة مثل UHPFRC لمنشآت أقوى وأطول عمراً.",
+                 "ku": "کۆنکرێتێن پێشکەفتی وەکی UHPFRC بۆ ئاڤاهییێن ب هێزتر و درێژخایەنتر." }
+  }
+]

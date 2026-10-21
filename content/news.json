@@ -1,0 +1,9 @@
+[
+  {
+    "date": "2026-10-01",
+    "image": "",
+    "link": "",
+    "title":   { "en": "[Example news title — replace me]", "ar": "[عنوان خبر تجريبي — استبدله]", "ku": "[ناڤونیشانێ نووچەیا نموونە — بگوهۆرە]" },
+    "summary": { "en": "[One or two sentences about the news item.]", "ar": "[جملة أو جملتان عن الخبر.]", "ku": "[ئێک یان دوو رستە دەربارێ نووچێ.]" }
+  }
+]

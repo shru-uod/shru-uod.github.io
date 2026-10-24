@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2025,
+    "authors": "Yaseen, A. A.",
+    "title": "Seismic vulnerability assessment of existing buildings in Duhok City, Kurdistan Region (KR), Iraq: application of the rapid visual screening method",
+    "venue": "Innovative Infrastructure Solutions (Springer Nature)",
+    "doi": "10.1007/s41062-025-01964-5",
+    "pdf": "",
+    "access": "publisher",
+    "finding": "Rapid visual screening of an estimated 43,000 buildings: nearly 50% highly vulnerable and about 10% at risk of collapse in a major earthquake; results mapped in GIS."
+  },
+  {
+    "year": 2021,
+    "authors": "Abduljaleel, Z. A., Taha, B. O., & Yaseen, A. A.",
+    "title": "Seismic vulnerability assessment of Rizgary Hospital building in Erbil City, the capital city of KR of Iraq",
+    "venue": "Journal of Engineering (University of Baghdad), 27(8), 59–79",
+    "doi": "10.31026/j.eng.2021.08.05",
+    "pdf": "papers/Abduljaleel-Taha-Yaseen-2021-JEng-Rizgary-Hospital-Erbil.pdf",
+    "access": "open",
+    "finding": "About 120 incremental dynamic analyses: collapse accelerations below 0.2 g against an expected 0.4 g; pounding and irregularities increase vulnerability."
+  },
+  {
+    "year": 2021,
+    "authors": "Abdi, A. I., & Yaseen, A. A.",
+    "title": "Seismic vulnerability assessment of existing RC multi-story buildings in Duhok City, Kurdistan Region of Iraq",
+    "venue": "Journal of University of Duhok (Pure and Eng. Sciences), 24(1), 60–78",
+    "doi": "10.26682/sjuod.2021.24.1.9",
+    "pdf": "papers/Abdi-Yaseen-2021-JUOD-RC-multistory-Duhok.pdf",
+    "access": "open",
+    "finding": "Pushover analysis of six buildings (FEMA 440): weak-column / strong-beam behaviour and damage concentrated in ground-storey columns, which should be strengthened."
+  },
+  {
+    "year": 2020,
+    "authors": "Abduljaleel, Z. A., Taha, B. O., & Yaseen, A. A.",
+    "title": "Seismic vulnerability assessment of reinforced concrete building structures in Erbil City, capital city of Kurdistan Region of Iraq",
+    "venue": "Eurasian Journal of Science & Engineering, 6(1), 161–183",
+    "doi": "10.23918/eajse.v6i1p161",
+    "pdf": "papers/Abduljaleel-Taha-Yaseen-2020-EAJSE-RC-buildings-Erbil.pdf",
+    "access": "open",
+    "finding": "Over 800 incremental dynamic analyses: collapse capacities of about 0.30–0.35 g (commercial, hotel) and ≤ 0.3 g (residential) against an expected 0.4 g; masonry infill increases vulnerability."
+  },
+  {
+    "year": 2018,
+    "authors": "Yaseen, A. A., & Ahmed, M. S.",
+    "title": "Seismic vulnerability assessment of single-story masonry buildings in Kurdistan Region – Iraq",
+    "venue": "Academic Journal of Nawroz University, 7(4), 18–26",
+    "doi": "10.25007/ajnu.v7n4a267",
+    "pdf": "papers/Yaseen-Ahmed-2018-AJNU-single-story-masonry.pdf",
+    "access": "open",
+    "finding": "Single-story URM buildings (about 67% of the building stock) are highly susceptible to slight and moderate damage; extensive to very heavy damage is expected in the eastern KRI."
+  },
+  {
+    "year": 2026,
+    "authors": "Abdulsitar, M. S., & Yaseen, A. A.",
+    "title": "Seismic fragility assessment of vertical hybrid RC frame–masonry buildings using capacity-based damage thresholds derived from pushover analysis",
+    "venue": "Manuscript in preparation",
+    "doi": "",
+    "pdf": "",
+    "access": "prep",
+    "finding": "24 structural cases: collapse probability exceeds 0.5 at 0.25–0.30 g for the more vulnerable configurations, driven by small yield displacements of the masonry."
+  }
+]

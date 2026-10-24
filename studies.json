@@ -1,0 +1,135 @@
+[
+  {
+    "id": "abdulsitar-2026",
+    "year": 2026,
+    "degree": "MSc",
+    "author": "Mohammed Sarhan Abdulsitar",
+    "institution": "University of Duhok, College of Engineering",
+    "supervisor": "Asst. Prof. Dr. Abdulhameed Abdullah Yaseen",
+    "city": { "en": "Kurdistan Region", "ar": "إقليم كوردستان", "ku": "هەرێما کوردستانێ" },
+    "typology": { "en": "Hybrid RC frame – masonry block", "ar": "هجين: هيكل خرساني – بلوك", "ku": "تێکەل: چوارچۆڤێ کۆنکرێتی – بلۆک" },
+    "title": "Seismic Fragility Assessment of Hybrid RC Frame–Masonry Block Buildings: Evaluating Vulnerability of Mixed Construction Systems",
+    "image": "assets/img/studies/abdulsitar-2026-msc.jpg",
+    "card": "assets/img/studies/cards/abdulsitar-2026-msc-summary.png",
+    "summary": {
+      "en": "Vertical hybrid buildings — an RC frame with masonry infill at ground floor and load-bearing concrete-block walls above — were modelled in 3Muri using laboratory-tested properties of local blocks, and analysed with pushover and nonlinear time-history analyses to derive fragility curves.",
+      "ar": "نُمذجت المباني الهجينة العمودية (هيكل خرساني بجدران ملء في الطابق الأرضي وجدران بلوك حاملة في الطوابق العليا) ببرنامج 3Muri باستخدام خصائص بلوك محلي مختبرة، وحُللت بتحليل الدفع التدريجي والتحليل الزمني اللاخطي لاشتقاق منحنيات الهشاشة.",
+      "ku": "ئاڤاهییێن تێکەل (چوارچۆڤێ کۆنکرێتی ل قاتێ عەردی و دیوارێن بلۆکی یێن هەلگر ل سەرێ) ب 3Muri هاتنە مۆدێلکرن ب بکارئینانا تایبەتمەندیێن بلۆکێن ناڤخۆیی یێن تاقیکری، و ب شیکارا pushover و time-history هاتنە شیکارکرن بۆ دەرئێخستنا کەڤانێن لاوازیێ."
+    },
+    "findings": [
+      "Response is governed by the interaction of brittle masonry walls and the ductile RC frame: walls crack early, forces shift to the frame and soft-storey mechanisms control collapse.",
+      "Irregular wall layouts are the most vulnerable; continuous exterior walls give the most stable response.",
+      "Fragility results depend strongly on the damage-state definition (displacement, inter-storey drift or damage index); the damage-index approach is the most realistic.",
+      "Tie-rod strengthening of all walls was the most effective retrofit tested, but it does not remove the soft-storey failure mode.",
+      "For new buildings, masonry confinement combined with shear walls gave the largest reduction in collapse probability."
+    ],
+    "download": "",
+    "related": "Manuscript in preparation (Abdulsitar & Yaseen)."
+  },
+  {
+    "id": "ahmed-2026",
+    "year": 2026,
+    "degree": "MSc",
+    "author": "Khalat Qadir Ahmed",
+    "institution": "University of Sulaimani, College of Engineering",
+    "supervisor": "Prof. Dr. Serwan Khurshid Rafiq (University of Sulaimani) and Prof. Dr. Lars Abrahamczyk (Bauhaus-Universität Weimar)",
+    "city": { "en": "Sulaymaniyah", "ar": "السليمانية", "ku": "سلێمانی" },
+    "typology": { "en": "URM hollow concrete block", "ar": "بناء غير مسلح – بلوك مجوف", "ku": "بلۆکێ کونکری یێ بێ ئاسن" },
+    "title": "Seismic Vulnerability Assessment of some Typical Buildings in Sulaymaniyah City",
+    "image": "assets/img/studies/ahmed-2026-msc.jpg",
+    "card": "assets/img/studies/cards/ahmed-2026-msc-summary.png",
+    "summary": {
+      "en": "Typical unreinforced hollow-concrete-block houses (100, 150 and 200 m², one to three storeys) were studied through laboratory tests of units and mortar, pushover analysis with the N2 method, and displacement-based fragility curves.",
+      "ar": "دُرست بيوت نموذجية من البلوك الخرساني المجوف غير المسلح (100 و150 و200 م²، من طابق إلى ثلاثة طوابق) عبر فحوص مختبرية وتحليل الدفع التدريجي بطريقة N2 ومنحنيات هشاشة مبنية على الإزاحة.",
+      "ku": "خانییێن نموونەیی یێن بلۆکێ کونکری یێ بێ ئاسن (100، 150 و 200 م²، ئێک هەتا سێ قات) ب تاقیکرنێن تاقیگەهێ، شیکارا pushover ب رێکا N2 و کەڤانێن لاوازیێ هاتنە ڤەکۆلین."
+    },
+    "findings": [
+      "Lateral capacity is low with rapid post-peak strength loss, reflecting the brittle behaviour of hollow-block masonry.",
+      "Strength in the weaker X-direction was about 35–83% lower than in the Y-direction, depending on plan size.",
+      "Taller buildings reach damage states at lower accelerations: the PGA for a 50% chance of moderate damage fell from 0.087 g (one storey, 100 m²) to 0.059 g (three storeys).",
+      "Softer soils (site classes C and D) led to larger displacement demands and higher damage states."
+    ],
+    "download": "",
+    "related": ""
+  },
+  {
+    "id": "abdi-2020",
+    "year": 2020,
+    "degree": "MSc",
+    "author": "Abdi Ismail Abdi",
+    "institution": "University of Duhok, College of Engineering",
+    "supervisor": "Dr. Abdulhameed Abdullah Yaseen",
+    "city": { "en": "Duhok", "ar": "دهوك", "ku": "دهۆک" },
+    "typology": { "en": "Multistory RC frames", "ar": "هياكل خرسانية متعددة الطوابق", "ku": "چوارچۆڤێن کۆنکرێتی یێن چەند قات" },
+    "title": "Seismic Vulnerability Assessment of Existing RC Multistory Buildings in Duhok City",
+    "image": "assets/img/studies/abdi-2020-msc.jpg",
+    "card": "assets/img/studies/cards/abdi-2020-msc-summary.png",
+    "summary": {
+      "en": "A street survey mapped multistory RC buildings in Duhok with GIS. Twelve representative buildings were modelled in ETABS and assessed with pushover analysis and the improved capacity spectrum method (FEMA 440) for Ss = 0.6 g and S1 = 0.2 g, and fragility curves were developed.",
+      "ar": "رُسمت المباني الخرسانية متعددة الطوابق في دهوك بمسح ميداني ونظم معلومات جغرافية، ونُمذج اثنا عشر مبنى ممثلاً ببرنامج ETABS وقُيّمت بتحليل الدفع التدريجي وطريقة طيف القدرة المحسّنة (FEMA 440)، مع اشتقاق منحنيات الهشاشة.",
+      "ku": "ئاڤاهییێن کۆنکرێتی یێن چەند قات ل دهۆکێ ب رووپێوەکا جادەیان و GIS هاتنە نەخشەکرن؛ دوازدە ئاڤاهی ب ETABS هاتنە مۆدێلکرن و ب pushover و رێکا FEMA 440 هاتنە هەلسەنگاندن."
+    },
+    "findings": [
+      "More than 40% of the selected buildings performed poorly, with little reserve of strength and deformation.",
+      "Most buildings behave as weak-column / strong-beam systems because they were designed with conventional, non-seismic approaches.",
+      "Ground storeys often act as soft storeys, so damage concentrates in ground-floor columns; strengthening them is recommended.",
+      "G+3 buildings were the most vulnerable type in the city.",
+      "A seismic code for the Kurdistan Region and stronger construction supervision are recommended."
+    ],
+    "download": "",
+    "related": "Abdi & Yaseen (2021), Journal of University of Duhok 24(1)."
+  },
+  {
+    "id": "abduljaleel-2019",
+    "year": 2019,
+    "degree": "MSc",
+    "author": "Zina Abdulkareem Abduljaleel",
+    "institution": "Erbil Polytechnic University, Erbil Technical Engineering College",
+    "supervisor": "Asst. Prof. Dr. Bahman Omar Taha (examining committee member: Dr. Abdulhameed A. Yaseen)",
+    "city": { "en": "Erbil", "ar": "أربيل", "ku": "هەولێر" },
+    "typology": { "en": "RC buildings & hospital", "ar": "مبانٍ خرسانية ومستشفى", "ku": "ئاڤاهییێن کۆنکرێتی و نەخۆشخانە" },
+    "title": "Seismic Vulnerability Assessment of Reinforced Concrete Building Structures in Erbil City, the Capital City of Kurdistan Region of Iraq",
+    "image": "assets/img/studies/abduljaleel-2019-msc.jpg",
+    "card": "assets/img/studies/cards/abduljaleel-2019-msc-summary.png",
+    "summary": {
+      "en": "Commercial, hotel, residential and hospital buildings in Erbil were modelled in detail and assessed with pushover analysis and more than 900 incremental dynamic analyses, including the effects of masonry infill, seismic pounding and plan/vertical irregularities.",
+      "ar": "نُمذجت مبانٍ تجارية وفندقية وسكنية ومستشفى في أربيل بالتفصيل وقُيّمت بتحليل الدفع التدريجي وأكثر من 900 تحليل ديناميكي تزايدي، مع دراسة تأثير جدران الملء والتصادم الزلزالي وعدم الانتظام.",
+      "ku": "ئاڤاهییێن بازرگانی، هوتێل، نیشتەجێبوون و نەخۆشخانە ل هەولێرێ ب هوورگلی هاتنە مۆدێلکرن و ب pushover و پتر ژ 900 شیکارێن داینامیکی هاتنە هەلسەنگاندن."
+    },
+    "findings": [
+      "Design PGA for Erbil was identified as 0.25 g and 0.4 g for return periods of 475 and 2475 years (bedrock).",
+      "Collapse capacities of the reference buildings were about 0.30–0.35 g, below the expected 0.4 g.",
+      "The pre-code hospital performed very poorly, with collapse accelerations not exceeding 0.2 g.",
+      "Masonry infill, pounding and combined irregularities significantly increased vulnerability; urgent retrofit is recommended."
+    ],
+    "download": "",
+    "related": "Abduljaleel, Taha & Yaseen (2020) EAJSE 6(1); (2021) Journal of Engineering 27(8)."
+  },
+  {
+    "id": "yaseen-2015",
+    "year": 2015,
+    "degree": "PhD",
+    "author": "Abdulhameed Abdullah Yaseen",
+    "institution": "University of Portsmouth, United Kingdom",
+    "supervisor": "",
+    "city": { "en": "Kurdistan Region", "ar": "إقليم كوردستان", "ku": "هەرێما کوردستانێ" },
+    "typology": { "en": "URM solid concrete block", "ar": "بناء غير مسلح – بلوك مصمت", "ku": "بلۆکێ تژی یێ بێ ئاسن" },
+    "title": "Seismic Fragility Assessment of Masonry Buildings in the Kurdistan Region",
+    "image": "assets/img/studies/yaseen-2015-phd.jpg",
+    "card": "assets/img/studies/cards/yaseen-2015-phd-summary.png",
+    "summary": {
+      "en": "The building stock of the Kurdistan Region was classified, seismic zonation maps, response spectra and a seismic zone factor Z were proposed, and analytical fragility curves and surfaces were derived for low-rise URM buildings using TREMURI and incremental dynamic analysis.",
+      "ar": "صُنّف مخزون المباني في إقليم كوردستان، واقتُرحت خرائط تقسيم زلزالي وأطياف استجابة ومعامل منطقة زلزالية Z، واشتُقت منحنيات وسطوح هشاشة تحليلية للمباني غير المسلحة منخفضة الارتفاع باستخدام TREMURI والتحليل الديناميكي التزايدي.",
+      "ku": "ئاڤاهییێن هەرێما کوردستانێ هاتنە پۆلێنکرن، نەخشێن دابەشکرنا عەردهەژینێ و فاکتەرێ Z هاتنە پێشنیارکرن، و کەڤان و رووکارێن لاوازیێ بۆ ئاڤاهییێن بێ ئاسن یێن نزم ب TREMURI و IDA هاتنە دەرئێخستن."
+    },
+    "findings": [
+      "The choice of ground-motion intensity measure (IM) is the most important source of variability in URM fragility.",
+      "Variability in material properties can be neglected compared with ground-motion variability.",
+      "With IDA and a well-selected IM, as few as 7 records can match the fragility obtained with 60 records.",
+      "Fragility surfaces (two IMs) are preferred over single-IM fragility curves; a machine-learning wrapper method is proposed for IM selection.",
+      "The seismic safety of low-rise URM buildings in the region is questionable and they need strengthening."
+    ],
+    "download": "theses/Yaseen-2015-PhD-Seismic-Fragility-Assessment-of-Masonry-Buildings-in-the-Kurdistan-Region.pdf",
+    "related": "Yaseen & Ahmed (2018), Academic Journal of Nawroz University 7(4)."
+  }
+]

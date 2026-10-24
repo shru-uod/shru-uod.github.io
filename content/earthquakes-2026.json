@@ -1,0 +1,203 @@
+{
+ "updated": "2026-10-24",
+ "period": "1 January – 23 October 2026",
+ "counts": {
+  "m7": 13,
+  "m6": 101,
+  "total": 114,
+  "largest": 7.8,
+  "deaths_known": 7088
+ },
+ "months": [
+  {
+   "m": "2026-01",
+   "n": 10
+  },
+  {
+   "m": "2026-02",
+   "n": 8
+  },
+  {
+   "m": "2026-03",
+   "n": 17
+  },
+  {
+   "m": "2026-04",
+   "n": 8
+  },
+  {
+   "m": "2026-05",
+   "n": 10
+  },
+  {
+   "m": "2026-06",
+   "n": 19
+  },
+  {
+   "m": "2026-07",
+   "n": 11
+  },
+  {
+   "m": "2026-08",
+   "n": 12
+  },
+  {
+   "m": "2026-09",
+   "n": 6
+  },
+  {
+   "m": "2026-10",
+   "n": 13
+  }
+ ],
+ "m7": [
+  {
+   "id": "us6000u43g",
+   "time": "2026-10-22T14:33:40.353Z",
+   "lat": 32.3805,
+   "lon": 93.7797,
+   "depth": 18.0,
+   "mag": 7.0,
+   "place": "191 km ENE of Nagqu, China",
+   "impact": "No casualties reported in our sources"
+  },
+  {
+   "id": "us6000u18k",
+   "time": "2026-10-09T17:56:06.036Z",
+   "lat": 7.5868,
+   "lon": -80.769,
+   "depth": 12.6,
+   "mag": 7.7,
+   "place": "12 km WSW of Pitaloza Arriba, Panama",
+   "impact": "No deaths reported; about 27 injured"
+  },
+  {
+   "id": "us6000tkt2",
+   "time": "2026-08-14T21:58:21.561Z",
+   "lat": -8.3358,
+   "lon": 121.3446,
+   "depth": 10.0,
+   "mag": 7.8,
+   "place": "66 km NNW of Ende, Indonesia",
+   "impact": "136–156 deaths (sources differ)"
+  },
+  {
+   "id": "us6000tjl2",
+   "time": "2026-08-10T12:34:28.828Z",
+   "lat": 4.8601,
+   "lon": -76.2558,
+   "depth": 116.1,
+   "mag": 7.4,
+   "place": "4 km SSW of San José del Palmar, Colombia",
+   "impact": "335 deaths"
+  },
+  {
+   "id": "us7000t1bu",
+   "time": "2026-07-17T14:48:39.881Z",
+   "lat": 14.571,
+   "lon": -92.9624,
+   "depth": 22.0,
+   "mag": 7.3,
+   "place": "60 km WSW of Puerto Madero, Mexico",
+   "impact": "No casualties reported in our sources"
+  },
+  {
+   "id": "us6000t7zp",
+   "time": "2026-06-24T22:05:04.053Z",
+   "lat": 10.5955,
+   "lon": -67.2205,
+   "depth": 10.0,
+   "mag": 7.5,
+   "place": "20 km W of Catia La Mar, Venezuela",
+   "impact": "Deadliest event of 2026: at least 6,509 deaths for the doublet (with the M7.2 shock about 30 s earlier)"
+  },
+  {
+   "id": "us6000t7zc",
+   "time": "2026-06-24T22:04:31.806Z",
+   "lat": 10.3713,
+   "lon": -68.5564,
+   "depth": 10.0,
+   "mag": 7.2,
+   "place": "20 km E of San Felipe, Venezuela",
+   "impact": "First shock of the Venezuela doublet (deaths counted with the M7.5)"
+  },
+  {
+   "id": "us7000srb1",
+   "time": "2026-06-07T23:37:41.970Z",
+   "lat": 5.5994,
+   "lon": 125.056,
+   "depth": 57.0,
+   "mag": 7.8,
+   "place": "25 km SW of Kablalan, Philippines",
+   "impact": "107 deaths, 1,320 injured"
+  },
+  {
+   "id": "us6000sri7",
+   "time": "2026-04-20T07:52:58.908Z",
+   "lat": 39.971,
+   "lon": 143.0592,
+   "depth": 25.0,
+   "mag": 7.4,
+   "place": "102 km ENE of Miyako, Japan",
+   "impact": "10 injured"
+  },
+  {
+   "id": "us6000slss",
+   "time": "2026-04-01T22:48:13.063Z",
+   "lat": 1.0931,
+   "lon": 126.2354,
+   "depth": 35.0,
+   "mag": 7.4,
+   "place": "129 km ESE of Bitung, Indonesia",
+   "impact": "1 death"
+  },
+  {
+   "id": "us7000s8q0",
+   "time": "2026-03-30T08:44:13.780Z",
+   "lat": -15.2865,
+   "lon": 167.5825,
+   "depth": 120.6,
+   "mag": 7.3,
+   "place": "51 km ENE of Luganville, Vanuatu",
+   "impact": "No casualties reported in our sources"
+  },
+  {
+   "id": "us7000s789",
+   "time": "2026-03-24T04:37:51.627Z",
+   "lat": -18.5387,
+   "lon": -175.4763,
+   "depth": 234.0,
+   "mag": 7.5,
+   "place": "158 km W of Neiafu, Tonga",
+   "impact": "No casualties reported in our sources"
+  },
+  {
+   "id": "us6000sasz",
+   "time": "2026-02-22T16:57:46.738Z",
+   "lat": 6.8541,
+   "lon": 116.2942,
+   "depth": 629.0,
+   "mag": 7.1,
+   "place": "57 km NNW of Kota Belud, Malaysia",
+   "impact": "No casualties reported in our sources"
+  }
+ ],
+ "videos": [
+  {
+   "id": "sGALP-s6Tmo",
+   "title": "Tectonics of the Venezuela “doublet” earthquake – 26 June 2026"
+  },
+  {
+   "id": "8Zl6ocTFQDw",
+   "title": "2026 Venezuela earthquake disaster – engineering perspectives"
+  },
+  {
+   "id": "i7_yuy_R2T8",
+   "title": "Mindanao earthquake, June 2026: tectonic setting"
+  },
+  {
+   "id": "GuKDWy_qB1Q",
+   "title": "M7.7 earthquake strikes Panama – 9 October 2026 (compilation)"
+  }
+ ]
+}

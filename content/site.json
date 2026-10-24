@@ -1,0 +1,15 @@
+{
+  "email": "a.yaseen@uod.ac",
+  "address": {
+    "en": "SHRU, College of Engineering, University of Duhok, Duhok, Kurdistan Region of Iraq",
+    "ar": "وحدة SHRU، كلية الهندسة، جامعة دهوك، دهوك، إقليم كوردستان العراق",
+    "ku": "SHRU، کولیژا ئەندازیاریێ، زانکۆیا دهۆک، دهۆک، هەرێما کوردستانا عیراقێ"
+  },
+  "goatcounter": "shru-uod",
+  "stats": [
+    { "value": "≈43,000", "label": { "en": "buildings screened in Duhok City (RVS)", "ar": "مبنى فُحص في مدينة دهوك (الفحص البصري السريع)", "ku": "ئاڤاهی ل باژێرێ دهۆکێ هاتینە پشکنین (RVS)" } },
+    { "value": "5", "label": { "en": "peer-reviewed journal papers", "ar": "بحوث منشورة في مجلات محكّمة", "ku": "توێژینێن بەلاڤکری د گۆڤارێن هەلسەنگاندی دا" } },
+    { "value": "5", "label": { "en": "PhD & MSc theses on seismic vulnerability in the KRI", "ar": "أطاريح دكتوراه وماجستير عن الهشاشة الزلزالية في الإقليم", "ku": "تێزێن دکتۆرا و ماستەرێ ل سەر لاوازیا عەردهەژینێ ل هەرێمێ" } },
+    { "value": "3", "label": { "en": "cities studied: Duhok, Erbil, Sulaymaniyah", "ar": "مدن مدروسة: دهوك، أربيل، السليمانية", "ku": "باژێرێن ڤەکۆلین ل سەر هاتیەکرن: دهۆک، هەولێر، سلێمانی" } }
+  ]
+}

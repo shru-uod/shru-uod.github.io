@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-09-24",
+    "type": "defense",
+    "image": "assets/img/news/viva-sarhan-2026-1.jpg",
+    "images": ["assets/img/news/viva-sarhan-2026-1.jpg", "assets/img/news/viva-sarhan-2026-2.jpg"],
+    "link": "#studies",
+    "place": { "en": "College of Engineering, University of Duhok", "ar": "كلية الهندسة، جامعة دهوك", "ku": "کولیژا ئەندازیاریێ، زانکۆیا دهۆک" },
+    "title": {
+      "en": "MSc viva: seismic fragility of hybrid RC frame–masonry block buildings",
+      "ar": "مناقشة ماجستير: الهشاشة الزلزالية للمباني الهجينة (هيكل خرساني – جدران بلوك)",
+      "ku": "گفتوگۆیا ماستەرێ: لاوازیا عەردهەژینێ یا ئاڤاهییێن تێکەل (چوارچۆڤێ کۆنکرێتی – دیوارێن بلۆکی)"
+    },
+    "summary": {
+      "en": "Mohammed Sarhan Abdulsitar defended his MSc thesis “Seismic Fragility Assessment of Hybrid RC Frame–Masonry Block Buildings: Evaluating Vulnerability of Mixed Construction Systems”. Examination committee: Prof. Dr. Najmadin Mohamad, Prof. Dr. Bahman Taha, Asst. Prof. Dr. Abdulrazaq Sadq and Asst. Prof. Dr. Abdulhameed Abdullah Yaseen (supervisor).",
+      "ar": "ناقش الطالب محمد سرحان عبدالستار رسالة الماجستير الموسومة «تقييم الهشاشة الزلزالية للمباني الهجينة ذات الهيكل الخرساني وجدران البلوك». لجنة المناقشة: أ.د. نجم الدين محمد، أ.د. بهمن طه، أ.م.د. عبدالرزاق صادق، وأ.م.د. عبدالحميد عبدالله ياسين (المشرف).",
+      "ku": "محەمەد سەرحان عەبدولستار گفتوگۆ ل سەر تێزا خۆ یا ماستەرێ کر ب ناڤونیشانێ «هەلسەنگاندنا لاوازیا عەردهەژینێ یا ئاڤاهییێن تێکەل یێن چوارچۆڤێ کۆنکرێتی و دیوارێن بلۆکی». لیژنا گفتوگۆیێ: پ.د. نەجمەدین محەمەد، پ.د. بەهمەن تەها، پ.ه.د. عەبدولرەزاق سادق و پ.ه.د. عەبدولحەمید عەبدوللا یاسین (سەرپەرشتیار)."
+    }
+  },
+  {
+    "date": "2025-03-08",
+    "type": "publication",
+    "image": "assets/img/buildings/rc-multistory-2.jpg",
+    "link": "https://doi.org/10.1007/s41062-025-01964-5",
+    "title": {
+      "en": "Paper accepted in Innovative Infrastructure Solutions (Springer): rapid visual screening of Duhok City",
+      "ar": "قبول بحث في مجلة Innovative Infrastructure Solutions (Springer): الفحص البصري السريع لمباني دهوك",
+      "ku": "پەسەندکرنا توێژینەکێ د گۆڤارا Innovative Infrastructure Solutions (Springer) دا: پشکنینا بەرچاڤ یا خێرا بۆ دهۆکێ"
+    },
+    "summary": {
+      "en": "The study applied Rapid Visual Screening to an estimated 43,000 buildings in Duhok City and mapped the results in GIS. Nearly 50% of buildings were found highly vulnerable and about 10% at risk of collapse in a major earthquake.",
+      "ar": "طبّقت الدراسة الفحص البصري السريع على نحو 43,000 مبنى في مدينة دهوك ورسمت النتائج بنظم المعلومات الجغرافية. تبيّن أن نحو 50% من المباني عالية الهشاشة وأن نحو 10% معرّضة للانهيار في زلزال كبير.",
+      "ku": "ئەڤ ڤەکۆلینە پشکنینا بەرچاڤ یا خێرا ل سەر نێزیکی 43,000 ئاڤاهییان ل دهۆکێ جێبەجێ کر و ئەنجام ب GIS نەخشە کرن. نێزیکی 50% ژ ئاڤاهییان گەلەک لاوازن و نێزیکی 10% ل بەر مەترسیا هەرفتنێ نە د عەردهەژینەکا مەزن دا."
+    }
+  }
+]

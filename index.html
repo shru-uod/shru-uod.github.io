@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seismic Hazard Resilience Unit (SHRU) · University of Duhok</title>
+  <meta name="description" content="Seismic Hazard Resilience Unit (SHRU), College of Engineering, University of Duhok — seismic hazard, building vulnerability and fragility research for the Kurdistan Region of Iraq.">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+  <link rel="apple-touch-icon" href="assets/img/favicon-192.png">
+  <meta property="og:title" content="Seismic Hazard Resilience Unit (SHRU) · University of Duhok">
+  <meta property="og:description" content="Seismic hazard and building vulnerability research for the Kurdistan Region of Iraq.">
+  <meta property="og:image" content="assets/img/news/viva-sarhan-2026-1.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="home">
+
+<div class="topbar">
+  <div class="container topbar-inner">
+    <span data-i18n="topbar">University of Duhok · College of Engineering</span>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button type="button" data-lang="en">English</button>
+      <button type="button" data-lang="ar">العربية</button>
+      <button type="button" data-lang="ku">بادینی</button>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo-512.png" alt="SHRU logo" width="56" height="56">
+      <span class="brand-text">
+        <strong>SHRU</strong>
+        <span data-i18n="unit_name">Seismic Hazard Resilience Unit</span>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Menu">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <nav id="main-nav" class="main-nav">
+      <a href="#about" data-i18n="nav_about">About</a>
+      <a href="#research" data-i18n="nav_research">Research</a>
+      <a href="#studies" data-i18n="nav_studies">Theses</a>
+      <a href="#news" data-i18n="nav_news">News</a>
+      <a href="#publications" data-i18n="nav_publications">Publications</a>
+      <a href="#earthquakes" data-i18n="nav_quakes">2026 earthquakes</a>
+      <a href="#downloads" data-i18n="nav_resources">Downloads</a>
+      <a href="simulator.html" data-i18n="nav_sim">Simulator</a>
+      <a href="#contact" class="nav-cta" data-i18n="nav_contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main id="home">
+
+  <!-- HERO GALLERY — edit content/highlights.json -->
+  <section class="gallery" aria-roledescription="carousel" aria-labelledby="gal-title">
+    <h2 id="gal-title" class="sr-only" data-i18n="gal_label">Recent activities</h2>
+    <div class="gallery-stage" id="gal-stage" aria-live="polite"></div>
+    <div class="gallery-ctrl">
+      <div class="container">
+        <button type="button" class="g-btn" id="gal-prev" aria-label="Previous"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+        <button type="button" class="g-btn" id="gal-next" aria-label="Next"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+        <div class="g-dots" id="gal-dots"></div>
+        <span class="g-count" id="gal-count" dir="ltr"></span>
+      </div>
+    </div>
+  </section>
+  <div class="thumbs"><div class="container" id="gal-thumbs"></div></div>
+
+  <!-- INTRO -->
+  <section class="intro">
+    <svg class="intro-trace" viewBox="0 0 1200 90" preserveAspectRatio="none" aria-hidden="true">
+      <polyline fill="none" stroke="currentColor" stroke-width="2" points="0,45 300,45 340,42 360,48 380,38 400,52 420,45 520,45 545,10 565,80 585,20 600,66 615,34 630,52 650,45 760,45 780,40 800,50 820,45 1200,45"/>
+    </svg>
+    <div class="container intro-grid">
+      <div>
+        <p class="eyebrow" data-i18n="hero_eyebrow">University of Duhok — College of Engineering</p>
+        <h1 data-i18n="intro_title">Seismic Hazard Resilience Unit</h1>
+        <p class="lead" data-i18n="hero_lead">We study earthquake hazard and risk in the Kurdistan Region of Iraq and the wider region, and turn that knowledge into safer buildings, better codes and better-prepared communities.</p>
+      </div>
+      <div class="intro-actions">
+        <a class="btn btn-primary" href="#studies" data-i18n="btn_research">Explore our research</a>
+        <a class="btn btn-ghost" href="simulator.html" data-i18n="btn_sim">Try the damage simulator</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- NUMBERS + VISITORS — edit content/site.json -->
+  <section class="stats-band" aria-labelledby="stats-title">
+    <div class="container">
+      <h2 id="stats-title" class="sr-only" data-i18n="stats_title">SHRU in numbers</h2>
+      <div class="stats-grid" id="stats-list"></div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about" class="section">
+    <div class="container about-grid">
+      <div>
+        <p class="kicker">SHRU</p>
+        <h2 data-i18n="about_title">About the unit</h2>
+        <p data-i18n="about_text"></p>
+      </div>
+      <div class="pillars">
+        <div class="pillar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h4l2-6 4 12 2-6h6"/></svg>
+          <h3 data-i18n="p1_title">Research</h3>
+          <p data-i18n="p1_text">Hazard, vulnerability and risk studies grounded in regional data.</p>
+        </div>
+        <div class="pillar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2 9 2 12 0v-5"/></svg>
+          <h3 data-i18n="p2_title">Education &amp; training</h3>
+          <p data-i18n="p2_text">Seminars, workshops and graduate supervision on seismic design and assessment.</p>
+        </div>
+        <div class="pillar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 21V9l8-5 8 5v12"/><path d="M9 21v-6h6v6"/></svg>
+          <h3 data-i18n="p3_title">Engineering support</h3>
+          <p data-i18n="p3_text">Technical guidance for public bodies, designers and the community.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- RESEARCH AREAS -->
+  <section id="research" class="section section-alt">
+    <div class="container">
+      <p class="kicker" data-i18n="nav_research">Research</p>
+      <h2 data-i18n="research_title">Research areas</h2>
+      <div class="cards-3" id="research-list"></div>
+    </div>
+  </section>
+
+  <!-- BUILDING TYPES -->
+  <section id="buildings" class="section">
+    <div class="container">
+      <p class="kicker" data-i18n="buildings_kicker">Building stock</p>
+      <h2 data-i18n="buildings_title">Buildings we study</h2>
+      <p class="section-lead" data-i18n="buildings_lead"></p>
+      <div class="photo-grid" id="buildings-list"></div>
+    </div>
+  </section>
+
+  <!-- FAULT MAP -->
+  <section id="faults" class="section section-dark">
+    <div class="container faults-grid">
+      <div>
+        <p class="kicker" data-i18n="faults_kicker">Tectonics</p>
+        <h2 data-i18n="faults_title">Active faults in and around the Kurdistan Region</h2>
+        <p data-i18n="faults_text"></p>
+        <p class="btn-row">
+          <a class="btn btn-primary" href="assets/img/maps/kri-active-faults.png" download data-i18n="download_png">Download PNG</a>
+          <a class="btn btn-ghost" href="assets/img/maps/kri-active-faults.svg" download data-i18n="download_svg">Download SVG</a>
+        </p>
+      </div>
+      <a class="map-shot" href="assets/img/maps/kri-active-faults.png" target="_blank" rel="noopener">
+        <img src="assets/img/maps/kri-active-faults.png" alt="Map of active faults in and around the Kurdistan Region of Iraq, coloured by slip type" loading="lazy" width="2368" height="1843">
+      </a>
+    </div>
+  </section>
+
+  <!-- THESES & STUDIES — edit content/studies.json -->
+  <section id="studies" class="section section-alt">
+    <div class="container">
+      <p class="kicker" data-i18n="studies_kicker">Theses</p>
+      <h2 data-i18n="studies_title">Theses &amp; research</h2>
+      <p class="section-lead" data-i18n="studies_lead"></p>
+      <div class="study-list" id="studies-list"></div>
+    </div>
+  </section>
+
+  <!-- SIMULATOR -->
+  <section class="section sim-band">
+    <div class="container sim-grid">
+      <div>
+        <p class="kicker" data-i18n="sim_kicker">Interactive tool</p>
+        <h2 data-i18n="sim_band_title">Earthquake building damage simulator</h2>
+        <p data-i18n="sim_band_text"></p>
+        <p class="note-pill" data-i18n="sim_en_only"></p>
+        <p style="margin-top:18px"><a class="btn btn-primary" href="simulator.html" data-i18n="btn_sim">Try the damage simulator</a></p>
+      </div>
+      <a class="sim-shot" href="simulator.html" aria-label="Open the simulator">
+        <img src="assets/img/simulator-preview.jpg" alt="Screenshot of the 3D earthquake damage simulator" loading="lazy" width="1600" height="900">
+      </a>
+    </div>
+  </section>
+
+  <!-- 2026 EARTHQUAKES — edit content/earthquakes-2026.json -->
+  <section id="earthquakes" class="section">
+    <div class="container">
+      <p class="kicker" data-i18n="q_kicker">Global seismicity</p>
+      <h2 data-i18n="q_title">Major earthquakes of 2026</h2>
+      <p class="section-lead" data-i18n="q_lead"></p>
+      <div class="q-stats" id="q-stats"></div>
+      <div class="q-grid">
+        <a class="map-shot light" href="assets/img/maps/earthquakes-2026-m6.png" target="_blank" rel="noopener">
+          <img src="assets/img/maps/earthquakes-2026-m6.png" alt="World map of M6+ earthquakes in 2026, coloured by depth" loading="lazy" width="2675" height="1197">
+        </a>
+        <div class="q-months">
+          <h3 data-i18n="q_month">M6+ earthquakes per month</h3>
+          <div class="bars" id="q-bars"></div>
+        </div>
+      </div>
+      <h3 class="q-h3" data-i18n="q_list">All M7.0+ earthquakes of 2026</h3>
+      <div class="table-box">
+        <table class="q-table">
+          <thead><tr><th data-i18n="q_date">Date</th><th data-i18n="q_place">Location</th><th data-i18n="q_mag">Mag.</th><th data-i18n="q_depth">Depth</th><th data-i18n="q_impact">Reported impact</th></tr></thead>
+          <tbody id="q-rows"></tbody>
+        </table>
+      </div>
+      <h3 class="q-h3" data-i18n="q_videos">Videos</h3>
+      <div class="video-grid" id="q-videos"></div>
+      <p class="fine" data-i18n="q_video_note"></p>
+      <p class="fine" data-i18n="q_source"></p>
+    </div>
+  </section>
+
+  <!-- NEWS -->
+  <section id="news" class="section section-alt">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <p class="kicker" data-i18n="nav_news">News</p>
+          <h2 data-i18n="news_title">News &amp; activities</h2>
+        </div>
+        <button class="btn btn-link" type="button" data-toggle="news" data-i18n="view_all">View all</button>
+      </div>
+      <div class="news-list" id="news-list"></div>
+    </div>
+  </section>
+
+  <!-- PUBLICATIONS -->
+  <section id="publications" class="section">
+    <div class="container">
+      <p class="kicker" data-i18n="nav_publications">Publications</p>
+      <h2 data-i18n="pubs_title">Publications</h2>
+      <div class="pub-cards" id="publications-list"></div>
+    </div>
+  </section>
+
+  <!-- DOWNLOADS -->
+  <section id="downloads" class="section section-alt">
+    <div class="container">
+      <p class="kicker" data-i18n="res_kicker">Downloads</p>
+      <h2 data-i18n="res_title">Codes, theses &amp; maps</h2>
+      <p class="section-lead" data-i18n="res_lead"></p>
+      <div class="res-grid" id="resources-list"></div>
+    </div>
+  </section>
+
+  <!-- PEOPLE -->
+  <section id="team" class="section">
+    <div class="container">
+      <p class="kicker" data-i18n="people_kicker">People</p>
+      <h2 data-i18n="people_title">People &amp; collaborators</h2>
+      <div class="team-grid" id="team-list"></div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="section contact">
+    <div class="container contact-grid">
+      <div>
+        <h2 data-i18n="contact_title">Contact us</h2>
+        <p data-i18n="contact_text">For research collaboration, training requests or technical enquiries, get in touch.</p>
+      </div>
+      <dl class="contact-list">
+        <div>
+          <dt data-i18n="contact_address_label">Address</dt>
+          <dd id="contact-address">SHRU, College of Engineering, University of Duhok, Duhok, Kurdistan Region of Iraq</dd>
+        </div>
+        <div>
+          <dt data-i18n="contact_email_label">Email</dt>
+          <dd><a id="contact-email" href="mailto:a.yaseen@uod.ac">a.yaseen@uod.ac</a></dd>
+        </div>
+      </dl>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <img src="assets/img/logo-512.png" alt="" width="44" height="44">
+      <span data-i18n="footer_name">Seismic Hazard Resilience Unit · University of Duhok</span>
+    </div>
+    <div class="footer-links">
+      <a href="https://uod.ac/" target="_blank" rel="noopener" data-i18n="footer_uod">University of Duhok</a>
+      <a href="simulator.html" data-i18n="nav_sim">Simulator</a>
+      <a href="https://earthquake.usgs.gov/" target="_blank" rel="noopener">USGS</a>
+      <a href="https://www.emsc-csem.org/" target="_blank" rel="noopener">EMSC</a>
+    </div>
+    <p class="copyright">© <span id="year"></span> SHRU<span id="footer-visits"></span></p>
+  </div>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button type="button" class="lb-close" aria-label="Close">×</button>
+  <img alt="">
+  <p class="lb-cap"></p>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
